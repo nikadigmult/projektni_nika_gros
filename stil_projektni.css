@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: #6C085;
+	font-family: NikaGros;
+	src: url("../projektni html/NikaGrosdm.ttf.sfd");
+	font-weight: normal;
+	font-style: normal;
+		
+	
+}
+.paragraf_2 {color: maroon; 
+	background-color: rgba(87,190,192,0.68);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+.novi_blok {
+	background-color: rgba(255,126,0,0.70);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1 {
+	font-family: NikaGros;
+	color: #47082E;
+}
+h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: deeppink;
+	background-color:#47082E 
+
+	
+}
+span{color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("../projektni html/pozadina.jpg");
+    background-size: cover;
+    margin: 0;
+}
+.drugapozadina {
+	background-color: #FF8E00;
+}
+
+a:link {
+	color:aqua;
+	background-color: hotpink;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #06FBFF
+}
+a:hover{
+	background-color: fuchsia
+}
+img {
+	height: 200px;
+}
