@@ -3,7 +3,7 @@
 p {
 	color: #6C085;
 	font-family: NikaGros;
-	src: url("../projektni html/NikaGrosdm.ttf.sfd");
+	src: url("NikaGrosdm.ttf.sfd");
 	font-weight: normal;
 	font-style: normal;
 		
@@ -31,7 +31,7 @@ h2 {
 }
 span{color: rgb(255, 0, 255);}
 .pozadina{
-	background-image: url("../projektni html/pozadina.jpg");
+	background-image: url("pozadina.jpg");
     background-size: cover;
     margin: 0;
 }
@@ -52,3 +52,4 @@ a:hover{
 img {
 	height: 200px;
 }
+
